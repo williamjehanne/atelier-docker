@@ -1,0 +1,7 @@
+{
+  "name": "dockerapp",
+  "dependencies": {
+    "express": "^4.13.3",
+    "redis": "^2.1.0"
+  }
+}
